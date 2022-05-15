@@ -1,9 +1,1 @@
-# ITS-2022
-
-
-🔭 I’m currently not working 
-
-📫 How to reach me: don't disturb me please (only in case of armagedon my telegram is @mag1c)
-
-
-
+Don't try to find this repository interesting, it's only for study :)
